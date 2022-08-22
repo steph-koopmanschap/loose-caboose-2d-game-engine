@@ -1,0 +1,10 @@
+body {
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.mainTitle {
+    text-align: center;
+    color: lightgray; 
+}
